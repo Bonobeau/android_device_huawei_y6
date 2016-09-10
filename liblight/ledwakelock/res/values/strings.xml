@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LedWakelock</string>
+    <string name="instructtext">Choose the maximum amount of time to keep your device awake after receiving an led notification.</string>
+    <string name="button_apply">Apply</string>
+    <string name="alert1">This app is designed for Cyanogenmod for the Huawei Y6\nThis is not your device so this app won\'t benefit you."</string>
+    <string name="alert2">This app is designed for Cyanogenmod for the Huawei Y6 and the Custom lights daemon is not found\nThis app won\'t benefit you.</string>
+    <string name="alert3">Custom lights daemon not found\nThis app won\'t benefit you.</string>
+    <string-array name="LockTime">
+        <item>No Lock</item>
+        <item>One Minute</item>
+        <item>Two Minutes</item>
+        <item>Five Minutes</item>
+        <item>Ten Minutes</item>
+        <item>Thirty Minutes</item>
+        <item>One Hour</item>
+        <item>Two Hours</item>
+        <item>Infinite</item>
+    </string-array>
+
+</resources>
